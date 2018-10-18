@@ -5,4 +5,4 @@ date: 2018-10-18
 ---
 
 This is my flag of nigeria
-![my flag of nigeria.](images/FLAG.png)
+Format: ![my flag of nigeria.](images/FLAG.png)
