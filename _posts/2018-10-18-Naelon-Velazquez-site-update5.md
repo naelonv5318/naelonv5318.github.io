@@ -5,5 +5,5 @@ date: 2018-10-18
 ---
 
 This is  
-![alt text](url)
+format:![alt text](url)
 ![my flag of nigeria.](images/FLAG.png)
