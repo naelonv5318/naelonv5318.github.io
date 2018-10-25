@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Naelon Velazquez update 4, Launches Site"
+title: "Naelon Velazquez update 4"
 date: 2018-10-11
 ---
 
