@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Naelon Velazquez, Horrible Cop, Launches Site"
+title: "Naelon Velazquez update 4, Launches Site"
 date: 2018-10-11
 ---
 
