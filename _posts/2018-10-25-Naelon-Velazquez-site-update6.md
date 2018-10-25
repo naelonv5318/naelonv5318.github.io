@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Naelon Velazquez, update 2"
+title: "Naelon Velazquez, update 6"
 date: 2018-10-25
 ---
 
